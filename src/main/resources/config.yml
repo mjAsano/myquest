@@ -1,0 +1,8 @@
+# Default list of rewards that can be specified for quests
+rewards:
+  - gold
+  - experience points
+  - magic sword
+  - potion of health
+  - magic shield
+  - enchanted armor

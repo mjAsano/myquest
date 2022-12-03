@@ -1,0 +1,9 @@
+name: MyQuestPlugin
+version: 1.0
+description: A plugin that allows players to create and manage quests.
+main: com.mjasano.myquestplugin.MyQuestPlugin
+commands:
+  quest:
+    description: Manages quests.
+    usage: /quest <list|create|remove>
+    permission: myquestplugin.command.quest
